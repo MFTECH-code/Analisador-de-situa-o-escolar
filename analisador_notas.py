@@ -4,7 +4,6 @@ def analyser(media_escola, formato):
     Formato: Qual o formato: Bimestral ou Trimestral...
     B -> Bimestre
     T -> Trimestre
-    
     '''
     if formato == 'B':
         notas1 = list() 
